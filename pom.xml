@@ -16,7 +16,7 @@
 
   <properties>
     <java.version>1.17</java.version>
-    <com.squareup.retrofit2.version>2.4.0</com.squareup.retrofit2.version>
+    <com.squareup.retrofit2.version>2.5.0</com.squareup.retrofit2.version>
     <okhttp3.version>3.12.1</okhttp3.version>
     <fastjson.version>1.2.47</fastjson.version>
   </properties>
